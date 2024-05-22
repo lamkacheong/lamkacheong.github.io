@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小锵的博客</title>
+    <link>https://example.org/</link>
+    <description>Recent content on 小锵的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://example.org/test/</link>
+      <pubDate>Wed, 22 May 2024 16:27:47 +0800</pubDate>
+      <guid>https://example.org/test/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
